@@ -22,7 +22,7 @@ namespace webapptestgitday3.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page. Message from Feature branch Employe";
+            ViewBag.Message = "Your contact page. New commit from Empoyee Branch";
 
             return View();
         }
