@@ -15,7 +15,7 @@ namespace webapptestgitday3.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "My web application test GIT.";
 
             return View();
         }
