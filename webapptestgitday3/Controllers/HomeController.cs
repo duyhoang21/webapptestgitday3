@@ -22,7 +22,7 @@ namespace webapptestgitday3.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact page. message of master 1";
 
             return View();
         }
